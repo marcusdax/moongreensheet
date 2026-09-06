@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/crm",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1293,
+      "bodyTextHash": "5b379262e6dfe2d053268ff5954e5b5fc7ea6f7a8bc6758cea9c217b03c46d43",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM Cover The Craft The Ledge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/crm.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1241,
+      "bodyTextHash": "0b9f948fbdaf1266388ae93ef77286f2030674bc9e76dcaaa1006e07e5b6ae2f",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM FOLIO 04 — CRM Relationsh",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/crm-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/crm.json"
+}

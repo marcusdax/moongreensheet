@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/ledger",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 3230,
+      "bodyTextHash": "c340854b6f0a25ac2e0c20122a869832ded7b34ffa3400c02d0f6cf2e29d866f",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM Cover The Craft The Ledge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ledger.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 3178,
+      "bodyTextHash": "eb3824b76ffcbc56aa5dcd1b3391a203938164850a693004bcaa31d69ca47ed5",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM FOLIO 03 — THE LEDGER Nav",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/ledger-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/ledger.json"
+}

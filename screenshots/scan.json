@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/scan",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1433,
+      "bodyTextHash": "21bb2652a31b3a48fc282ff2ca4cc77c2b80ab01c4c2668869367740538c1615",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM Cover The Craft The Ledge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/scan.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 1381,
+      "bodyTextHash": "ae33abc6711cc2e6cf90d1612e9d33012d427699874a8c8e4419e10f4a2b8e56",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM FOLIO 05 — DOCUMENT INTAK",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/scan-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/scan.json"
+}

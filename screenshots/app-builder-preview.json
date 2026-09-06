@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 5383,
+      "bodyTextHash": "04f8ab2eb7b9e6c0742416eb2004600104448a76716ebef220032e7493e18508",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM Cover The Craft The Ledge",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auctum Ledger",
+      "hasCanvas": false,
+      "bodyTextLen": 5331,
+      "bodyTextHash": "312b57d883adde4a3ce602b420ede6a7586479b213284b256491308dbd780263",
+      "bodyTextPrefix": "Skip to record Auctum Ledger BY AUCTUM AUCTUM LEDGER · OFFER SHE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
